@@ -1,10 +1,10 @@
-.my-heading{
-    background-color: charteruse;
-    text-decoration: underline;
-  }
-  
-.emphasis{
-    font-style: italic;
+.my-heading {
+  background-color: charteruse;
+  text-decoration: underline;
+}
+
+.emphasis {
+  font-style: italic;
 }
 
 .fa {
@@ -27,6 +27,12 @@
   color: white;
 }
 
+.link-btn {
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 5px 20px;
+  margin: 500px;
+}
 /*h1 {
   font-family: monospace; 
   font-size:24px;
@@ -42,8 +48,7 @@ h2 {
 */
 
 body {
-  background-image:
-  url('images/background.jpg');
+  background-image: url("images/background.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-size: 75%;
@@ -59,7 +64,7 @@ body {
 }
 
 .kick:hover {
-  background-color: #4CAF50;
+  background-color: #4caf50;
   color: white;
 }
 
@@ -112,11 +117,9 @@ body {
   /* font-family: monospace; */
   position: relative;
   margin-top: 10px;
-
 }
 
 .block:hover {
   background-color: #5e5c06;
   color: white;
 }
-
